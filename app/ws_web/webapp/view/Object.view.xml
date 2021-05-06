@@ -24,7 +24,7 @@
 			/>
             <FormattedText htmlText="{keywords}"/>
             <Link
-				text="Open SAP Homepage"
+				text="Open SAP Homepage test"
 				target="_blank"
 				href="{url}" />
 		</semantic:headerContent>
