@@ -1,4 +1,5 @@
 using app.wsdata from '../db/wsdata';
+@requires: 'authenticated-user'
 service CatalogService {
 
  entity Interactions_Header

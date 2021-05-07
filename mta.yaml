@@ -8,6 +8,7 @@ modules:
     path: srv
     requires:
       - name: prj_bas_wsdata-db
+      - name: uaa_prj_bas_wsdata
     provides:
       - name: srv-api
         properties:
